@@ -1,0 +1,7 @@
+requests>=2.31
+python-dotenv>=1.0
+gnani-vachana
+flask>=3.0
+pandas>=2.0
+# optional multilingual dense retrieval (set USE_EMBEDDINGS=1):
+# fastembed
